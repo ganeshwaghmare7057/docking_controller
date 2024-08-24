@@ -1,0 +1,28 @@
+Column2,Designator,Footprint,Quantity,Designation,Type
+1,D1,D_SMA_Handsoldering,1,M7,Diode
+2,Spare,B3BPHSM4TBTLFSN,1,Spare_Pins,JST SMD
+3,"RESP4,RESP2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,5.6K,RMD 0805
+4,"C2,C5,C7,C9",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,0.1uF,Ccap SMD 0805
+5,"RESP3,RESP5",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,4.3K,R SMD 0805
+6,|1,CP_Elec_8x10.5,1,220uF 50V,Ecap
+7,CESP1,CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,1,10uf/16v Tantalum, Cap SMD Tantalum
+8,C10,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,0.1uf,Ccap SMD 0805
+9,J2,B5BPHSM4TBTLFSN,1,ENCODER,JST SMD 0805
+10,RESP1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k,R SMD 0805
+11,"C8,C3,C6,C1,C4",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,5,1uF,Ccap SMD 1206
+13,D2,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,12v-LED,LED SMD 
+14,"R2,R1",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,2.2k,R SMD 0805
+15,U2,TQFP-32_7x7mm_P0.8mm,1,ATmega328P-A,IC
+16,D3,LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm,1,SLOT_LED,LED SMD 0805
+17,D4,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,SLOT_LED,LED SMD 0805
+18,"C11,C12",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,22pF,C SMD 0805
+19,U1,SOT-223-3_TabPin2,1,AMS1117-5.0,AMS 5V SMD
+20,Y1,Crystal_HC49-U_Vertical,1,16MHz,TH Crystal
+21,SW1,SW_Tactile_Straight_KSA0Axx1LFTR,1,RST,pushbutton Switch
+22,J1,TerminalBlock_Altech_AK300-2_P5.00mm,1,Power_Supply,2 PIN Screw Terminal 
+23,J4,B5BPHSM4TBTLFSN,1,UART,JST 5PIN SMD
+24,J6,B3BPHSM4TBTLFSN,1,HOME_SLOT,JST 3PIN SMD
+25,J3,PinHeader_1x06_P2.54mm_Vertical,1,ICSP,PinHeader
+26,F1,Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1,16V 3A PPTC,Fuse SMD 1812
+27,J5,B5BPHSM4TBTLFSN,1,Docking Sensor,JST 5PIN SMD
+28,|2,CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,1,10uF/16V Tantalum,C SMD Tantlum 0805

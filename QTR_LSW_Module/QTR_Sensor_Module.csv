@@ -1,0 +1,14 @@
+Id,Designator,Footprint,Quantity,Designation
+1,RMOS3,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k
+2,"H1,H2",MountingHole_2.2mm_M2,2,MountingHole
+3,"RMOS2,RMOS5,RMOS1",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,3,220E
+4,U1,OnSemi_CASE100CY,1,QRE1113GR
+5,RMOS4,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,1K
+6,R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,2.2k
+7,J3,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,LSW
+8,U3,SO08,1,LM393
+9,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,5V-LED
+10,J2,PinHeader_1x03_P2.54mm_Vertical,1,Jumper
+11,RV1,TRIM_3362P-1-151,1,10K Pot
+12,J1,B5BPHSM4TBTLFSN,1,Connector
+13,U2,DIP-4_W7.62mm,1,PC817
